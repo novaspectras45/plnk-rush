@@ -1,0 +1,28 @@
+{
+  "attempts": [
+    {
+      "stage": "build",
+      "raw_stage": "build",
+      "status": "NO_VALID_SCREENSHOTS",
+      "at_epoch": 1795436590
+    },
+    {
+      "stage": "build",
+      "raw_stage": "build",
+      "status": "PIPELINE_STARTED",
+      "at_epoch": 1795438172
+    },
+    {
+      "stage": "build",
+      "raw_stage": "build",
+      "status": "PIPELINE_STARTED",
+      "at_epoch": 1795439917
+    },
+    {
+      "stage": "build",
+      "raw_stage": "build",
+      "status": "PIPELINE_STARTED",
+      "at_epoch": 1795443321
+    }
+  ]
+}

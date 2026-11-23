@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Plnk Rush</string>
+    <string name="app_title">PLINKO RUSH</string>
+
+    <string name="splash_subtitle">PLAN THE ROUTE</string>
+    <string name="splash_loading">LOADING</string>
+
+    <string name="cta_play">PLAY</string>
+    <string name="cta_drop">DROP</string>
+    <string name="cta_dropping">DROPPING</string>
+    <string name="cta_drop_again">DROP AGAIN</string>
+    <string name="cta_menu">MENU</string>
+    <string name="cta_back">BACK</string>
+    <string name="cta_resume">RESUME</string>
+    <string name="cta_restart">RESTART</string>
+    <string name="cta_leave">LEAVE</string>
+    <string name="cta_stay">STAY</string>
+    <string name="cta_reset">RESET</string>
+    <string name="cta_cancel">CANCEL</string>
+    <string name="cta_reset_progress">RESET PROGRESS</string>
+    <string name="cta_got_it">GOT IT</string>
+    <string name="cta_next_step">NEXT STEP</string>
+    <string name="cta_back_step">BACK STEP</string>
+    <string name="cta_select">SELECT</string>
+    <string name="cta_active">ACTIVE</string>
+    <string name="cta_replan">REPLAN</string>
+    <string name="cta_back_tomorrow">BACK TOMORROW</string>
+
+    <string name="nav_board_select">BOARD SELECT</string>
+    <string name="nav_daily_drop">DAILY DROP</string>
+    <string name="nav_collection">COLLECTION</string>
+    <string name="nav_tutorial">TUTORIAL</string>
+    <string name="nav_settings">SETTINGS</string>
+
+    <string name="menu_footer">FOR ENTERTAINMENT ONLY - NO REAL MONEY</string>
+    <string name="menu_daily_ready">READY</string>
+    <string name="menu_daily_done">DONE PLUS %1$d</string>
+
+    <string name="stat_stars">STARS</string>
+    <string name="stat_best">BEST</string>
+    <string name="stat_streak">STREAK</string>
+
+    <string name="hud_board_stage">BOARD %1$d - STAGE %2$d</string>
+    <string name="hud_par">PAR %1$d</string>
+    <string name="hud_seconds">%1$d S</string>
+    <string name="hud_gates">GATES %1$d/%2$d</string>
+
+    <string name="lane_one">LANE 1</string>
+    <string name="lane_two">LANE 2</string>
+    <string name="lane_three">LANE 3</string>
+
+    <string name="tray_deflect">DEFLECT</string>
+    <string name="tray_boost">BOOST</string>
+    <string name="tool_rotate">ROTATE</string>
+    <string name="tool_clear">CLEAR</string>
+
+    <string name="game_hint">TAP A SLOT TO PLACE - TAP A BUMPER TO ROTATE</string>
+    <string name="banner_locked">TARGET LOCKED</string>
+    <string name="banner_miss">OFF TARGET</string>
+
+    <string name="result_subtitle">ZONE %1$d OF %2$d - %3$d GATES LIT</string>
+    <string name="result_score">SCORE</string>
+    <string name="result_gates">GATES x%1$d</string>
+    <string name="result_combo">COMBO x%1$s</string>
+    <string name="result_bumpers">BUMPERS %1$d/%2$d</string>
+    <string name="result_clock">CLOCK PLUS %1$d</string>
+    <string name="star_target">TARGET</string>
+    <string name="star_all_gates">ALL GATES</string>
+    <string name="star_under_par">UNDER PAR</string>
+
+    <string name="board_one">NEON CHUTE</string>
+    <string name="board_two">ION LATTICE</string>
+    <string name="board_three">PULSE VAULT</string>
+    <string name="board_four">RUSH CORE</string>
+    <string name="board_one_desc">OPEN LATTICE - THREE GATES - NO BARRIERS</string>
+    <string name="board_two_desc">ONE SLIDING BARRIER - FOUR GATES</string>
+    <string name="board_three_desc">TWO BARRIERS - A FIVE GATE COMBO ROUTE</string>
+    <string name="board_four_desc">TWO BUMPERS ONLY - TARGET BEHIND A BARRIER</string>
+    <string name="board_locked">NEEDS %1$d STARS</string>
+    <string name="board_star_count">%1$d/%2$d</string>
+    <string name="board_no_runs">NO RUNS YET</string>
+    <string name="stage_chip">%1$d</string>
+
+    <string name="core_one">ION</string>
+    <string name="core_two">FLARE</string>
+    <string name="core_three">VERDANT</string>
+    <string name="core_four">SOLAR</string>
+    <string name="core_five">NOVA</string>
+    <string name="core_six">PRISM</string>
+    <string name="core_locked">NEEDS %1$d STARS</string>
+    <string name="core_ready">READY TO FIT</string>
+
+    <string name="daily_day">DAY %1$d</string>
+    <string name="daily_par">PAR 3</string>
+    <string name="daily_reward">1 TO 3 STARS</string>
+    <string name="daily_solved">SOLVED TODAY PLUS %1$d STARS</string>
+    <string name="daily_done_message">TODAY IS DONE - A NEW BOARD UNLOCKS AT MIDNIGHT</string>
+    <string name="daily_open_message">ONE ATTEMPT - THE SAME BOARD FOR EVERYONE TODAY</string>
+
+    <string name="tutorial_step">STEP %1$d OF %2$d</string>
+    <string name="tutorial_one_title">PICK A LANE</string>
+    <string name="tutorial_one_body">The token enters from one of three launch lanes. Changing the lane costs nothing and redraws the whole route.</string>
+    <string name="tutorial_two_title">PLACE AND ROTATE</string>
+    <string name="tutorial_two_body">Tap an empty lattice slot to drop a bumper, then tap the bumper again to turn it a quarter step. The budget is strict.</string>
+    <string name="tutorial_three_title">LIGHT THE GATES IN ORDER</string>
+    <string name="tutorial_three_body">Magenta, then cyan, then lime builds the combo chain. A wrong colour or a barrier kick breaks it back to zero.</string>
+    <string name="tutorial_four_title">LAND BEFORE THE CLOCK</string>
+    <string name="tutorial_four_body">The rush clock drops your current plan when it runs out, so read the dashed route and commit before zero.</string>
+
+    <string name="setting_trajectory">TRAJECTORY PREVIEW</string>
+    <string name="setting_trajectory_body">How much of the planned route the board draws</string>
+    <string name="setting_speed">DROP SPEED</string>
+    <string name="setting_speed_body">How long the token takes for each row</string>
+    <string name="setting_clock">RUSH CLOCK</string>
+    <string name="setting_clock_body">How long the planning phase lasts</string>
+    <string name="setting_progress">PROGRESS</string>
+    <string name="setting_progress_body">Clears stars, boards, cores and every best score</string>
+    <string name="setting_footer">FULLY OFFLINE - NO TRACKING - NO REAL MONEY</string>
+
+    <string name="opt_full">FULL</string>
+    <string name="opt_endpoint">ENDPOINT</string>
+    <string name="opt_off">OFF</string>
+    <string name="opt_calm">CALM</string>
+    <string name="opt_standard">STANDARD</string>
+    <string name="opt_rush">RUSH</string>
+    <string name="opt_on">ON</string>
+    <string name="opt_relaxed">RELAXED</string>
+
+    <string name="dialog_paused">PAUSED</string>
+    <string name="dialog_reset_title">RESET PROGRESS</string>
+    <string name="dialog_reset_body">Every star, board, core and best score returns to zero.</string>
+    <string name="dialog_leave_title">LEAVE THIS RUN</string>
+    <string name="dialog_leave_body">The current plan and the rush clock are discarded.</string>
+
+    <string name="cd_menu">Open the menu</string>
+    <string name="cd_pause">Pause the round</string>
+    <string name="cd_back">Back</string>
+    <string name="cd_star">Stars earned</string>
+    <string name="cd_rotate">Rotate the last bumper</string>
+    <string name="cd_clear">Clear every bumper</string>
+    <string name="cd_locked">Locked</string>
+    <string name="state_selected">SELECTED</string>
+    <string name="state_left">%1$d LEFT</string>
+</resources>

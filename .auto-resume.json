@@ -1,0 +1,9 @@
+{
+  "attempts": 1,
+  "lastAt": 1795443319,
+  "kind": "interrupted",
+  "failureAt": 1795439921,
+  "firstAt": 1795438167,
+  "status": "PAUSED",
+  "wasted": 2
+}

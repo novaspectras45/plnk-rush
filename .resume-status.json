@@ -1,0 +1,8 @@
+{
+  "outcome": "manual_required",
+  "fix_type": "infra",
+  "resume_from": "build",
+  "message": "Diagnosis says fix_type=infra — needs human. The app failed to run on the emulator before screenshots could be captured. The build was successful, but when the pipeline tried to verify the app works, the emulator or ADB connection did not respond.",
+  "log": "projects/PlnkRush/.resume-20261123-153104.log",
+  "attempted_at_epoch": 1795444266
+}
